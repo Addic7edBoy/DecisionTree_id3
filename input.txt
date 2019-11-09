@@ -1,0 +1,11 @@
+4 8 2
+higher,home,visitation,1,no
+higher,home,visitation,0,yes
+higher,home,pass,0,no
+below,home,pass,0,yes
+below,visit,pass,0,no
+below,home,pass,1,yes
+higher,visit,visitation,1,no
+below,visit,visitation,0,yes
+higher,visit,visitation,1
+below,home,pass,0

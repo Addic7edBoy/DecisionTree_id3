@@ -1,0 +1,13 @@
+4 10 2
+Sunny,80,High,Weak,No
+Cloudy,66,High,Weak,Yes
+Sunny,43,Normal,Strong,Yes
+Cloudy,82,High,Strong,Yes
+Rainy,65,High,Strong,No
+Rainy,42,Normal,Strong,No
+Rainy,70,High,Weak,Yes
+Sunny,81,High,Strong,No
+Cloudy,69,Normal,Weak,Yes
+Rainy,67,High,Strong,No
+Rainy,65,High,Strong
+Rainy,30,High,Strong
